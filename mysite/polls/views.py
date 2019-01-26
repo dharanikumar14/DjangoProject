@@ -6,4 +6,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the polls index and is created by dharani")
+    return HttpResponse("Hooray...!! Successfully created a view - Dharani")
